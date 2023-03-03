@@ -11,7 +11,7 @@ namespace d9_address_book_updated
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to address book system");
-            //address_book adb = new address_book();
+            address_book adb = new address_book();
         }
     }
 }
